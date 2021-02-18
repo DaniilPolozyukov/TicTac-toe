@@ -1,4 +1,4 @@
-# yt-vue-tic-tac-toe
+# vue-tic-tac-toe
 
 > A Vue.js project
 
